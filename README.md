@@ -1,11 +1,11 @@
 # Technologies
 
-Hive
-R
-Python
-Modelos ML ( Machine Learning )
-ETL
-BI
+- Hive
+- R
+- Python
+- Modelos ML ( Machine Learning )
+- ETL
+- BI
 
 Spark, PySpark, Scala, Java, R, hive, impala, pig, flume, kafka, ML Spark, Streaming Spark, Solr, Elasticsearch
 
